@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, i'am youssef wafik
+#### junior software developer
+I'm currently a student in the Information Technology Institute ITI 9-month professional training program, open source application development - Nasr city branch ISI
 
-<!--
-**youssefwt/youssefwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / VUE JS /  JavaScript / HTML / CSS / LARAVEL / NODE JS
+
+- 🔭 I’m currently working on improving my skills, through practical implementation on projects 
+- 🌱 I’m currently learning TypeScript / docker 
+- 📫 How to reach me: ywtalaat@gmail.com / +201030269259 
+- ⚡ Fun fact: ( I enjoy frontend more ) 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youssefwt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/youssef-wafik/)  
+
+
