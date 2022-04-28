@@ -1,5 +1,7 @@
 ### Hi there 👋, i'am youssef wafik
 #### junior software developer
+![junior software developer](https://github.com/youssefwt/youssefwt/blob/main/logo.PNG)
+
 I'm currently a student in the Information Technology Institute ITI 9-month professional training program, open source application development - Nasr city branch ISI
 
 
@@ -13,5 +15,4 @@ Skills: REACT / VUE JS /  JavaScript / HTML / CSS / LARAVEL / NODE JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youssefwt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/youssef-wafik/)  
-
 
