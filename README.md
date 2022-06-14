@@ -12,7 +12,6 @@ Skills: REACT / VUE JS /  JavaScript / HTML / CSS / LARAVEL / NODE JS
 - 🔭 I’m currently working on improving my skills, through practical implementation on projects 
 - 🌱 I’m currently learning TypeScript / docker 
 - 📫 How to reach me: ywtalaat@gmail.com / +201030269259 
-- ⚡ Fun fact: ( I enjoy frontend more ) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/youssefwt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/youssef-wafik/)  
