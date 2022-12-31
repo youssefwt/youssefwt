@@ -1,4 +1,4 @@
-![junior software developer](https://github.com/youssefwt/youssefwt/blob/main/logo.PNG)
+![junior software developer](https://raw.githubusercontent.com/youssefwt/youssefwt/main/bg.png)
 ### Hi there 👋, i'am youssef wafik
 #### junior software developer
 
