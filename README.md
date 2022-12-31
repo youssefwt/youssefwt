@@ -7,10 +7,10 @@ I'm currently a student in the Information Technology Institute ITI 9-month prof
 
 
 
-Skills: REACT / VUE JS /  JavaScript / HTML / CSS / LARAVEL / NODE JS
+Skills: REACT.js / Node.js / Angular / Typsescript / JavaScript / HTML / CSS / Bootstrap / docker / jest
 
 - 🔭 I’m currently working on improving my skills, through practical implementation on projects 
-- 🌱 I’m currently learning TypeScript / docker 
+- 🌱 I’m currently learning Next.js / Tailwind CSS 
 - 📫 How to reach me: ywtalaat@gmail.com / +201030269259 
 
 
