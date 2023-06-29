@@ -1,16 +1,14 @@
 ![junior software developer](https://raw.githubusercontent.com/youssefwt/youssefwt/main/bg.png)
 ### Hi there 👋, i'am youssef wafik
-#### junior software developer
+#### Software developer
 
 
-I'm currently a student in the Information Technology Institute ITI 9-month professional training program, open source application development - Nasr city branch ISI
+I'm a Full stack software developer, with experience working on large scale projects using different React, node and next. 
 
 
+Skills: REACT.js / Node.js / Next.js / Typsescript / JavaScript / HTML / CSS / TailwindCSS / material ui / radix / docker / jest
 
-Skills: REACT.js / Node.js / Angular / Typsescript / JavaScript / HTML / CSS / Bootstrap / docker / jest
-
-- 🔭 I’m currently working on improving my skills, through practical implementation on projects 
-- 🌱 I’m currently learning Next.js / Tailwind CSS 
+- 🔭 I’m always working on improving my skills, through studying and practical implementation on projects.
 - 📫 How to reach me: ywtalaat@gmail.com / +201030269259 
 
 
