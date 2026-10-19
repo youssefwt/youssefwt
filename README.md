@@ -1,14 +1,9 @@
-![junior software developer](https://raw.githubusercontent.com/youssefwt/youssefwt/main/bg.png)
-### Hi there 👋, i'am youssef wafik
-#### Software developer
+### Hey, I'm Youssef 👋
 
+I'm a frontend/fullstack developer working with typescript who enjoys building products that address real problems. I've worked on large-scale product experiences at companies like Incorta, Cyshield and Seed-labs, from AI-powered app building to high-performance trading interfaces, complex visualisations and real-time financial data.
 
-I'm a Full stack software developer, with experience working on large scale projects using different React, node and next. 
+I enjoy tackling complex UI challenges, figuring out how things work under the hood, and building software that feels good to use. Lately, I've been exploring more of the backend and AI application development world.
 
-
-Skills: REACT.js / Node.js / Next.js / Typsescript / JavaScript / HTML / CSS / TailwindCSS / material ui / radix / docker / jest
-
-- 🔭 I’m always working on improving my skills, through studying and practical implementation on projects.
 - 📫 How to reach me: ywtalaat@gmail.com / +201030269259 
 
 
